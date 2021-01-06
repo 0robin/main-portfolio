@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    line-height: 0.6;
+}
+p{
+    color: dimgray;
+}
+.menu{
+    height: 50px;
+    width: 90%;
+    font-weight: bold;
+}
+.menu1{
+    float: right;
+    padding: 2%;
+}
+.menu12{
+    text-decoration: none;
+    color: black;
+}
+section {
+    height: 400px;
+    align-items: center;
+}
+.my-name{
+    color: blue;
+}
+.my-self{
+    color: orangered;
+}
+h3{
+    color: orangered;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.half-width img {
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 2%;
+    border-radius: 5px;
+}
+.demo-title{
+    color: rgb(3, 14, 168);
+}
+
+.middle-section {
+    height: 530px;
+    background-color: rgb(219, 219, 219);
+    margin-top: 60px;
+    padding: 10px;
+    padding-left: 120px;
+}
+
+.demo-title {
+    text-align: center;
+    padding-right: 100px;
+}
+.latest{
+    color: red;
+}
+
+.box {
+    width: 25%;
+    float: left;
+    height: 355px;
+    text-align: justify;
+    background-color: white;
+    margin: 13px;
+    border-radius: 7px;
+    padding: 1.5%;
+    box-shadow: 0px 0px 20px 0px #00000020;
+}
+
+.box-image {
+    width: 100%;
+}
+.bonus{
+    height: 230px;
+    background-color: rgba(255, 99, 71, 0.726);
+    margin-top: 4%;
+}
+.subscribe{
+    height: 150px;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    padding:1%;
+}
+.mail-box{
+    border: none;
+    background-color:rgba(255, 255, 255, 0);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.336);
+    width: 100%;
+    margin: 3%;
+    outline: none;
+    color: #ffffff;
+}
+
+.button{
+    padding: 3%;
+    margin: 3%;
+    width: 100%;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.301);
+    color: white;
+    outline: none;
+    cursor: pointer;
+    border-radius: 30px;
+}
+h2{
+    color: white;
+}
+.last-section{
+    height: 190px;
+}
+.thank-you{
+    width: 500px;
+    background-image: url("images/thank-you.png");
+    margin: auto;
+    background-size: 500px;
+    height: 130px;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+
+}
+
+.thank-you h1 {
+    color: rgb(255, 255, 255);
+    float: left;
+    padding: 4%;
+}
+
+.thank-you a {
+    float: right;
+    margin-right: 6%;
+    margin-top: 10%;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 1%;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    
+}
